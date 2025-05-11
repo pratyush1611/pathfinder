@@ -1,0 +1,6 @@
+geopandas
+networkx
+ipykernel
+folium
+scipy
+matplotlib
